@@ -1,1 +1,1 @@
-# QizzApp an app made with Flask
+# QuizzApp an app made with Flask
